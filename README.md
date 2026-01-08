@@ -28,7 +28,7 @@ Here are a few repositories from my profile:
 - 🔹 **Sorting Visualizer** – Visualizing sorting algorithms using JS  
 - 🔹 **Data Structure & Algorithm Practice** – Collection of DSA problems
 
-*(You can link them using GitHub repo links when you copy this into your README)*
+
 
 ---
 
