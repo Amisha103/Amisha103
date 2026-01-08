@@ -32,12 +32,11 @@ Here are a few repositories from my profile:
 
 ---
 
-### 📊 GitHub Stats
+### 📌 GitHub Overview
+![Profile Views](https://komarev.com/ghpvc/?username=Amisha103)
+![GitHub Followers](https://img.shields.io/github/followers/Amisha103?label=Followers)
+![Public Repos](https://img.shields.io/github/repo-size/Amisha103/Weather-App)
 
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true)
-
-
----
 
 Thank you for stopping by! 😊  
 Let's build and learn together!
