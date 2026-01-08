@@ -37,7 +37,6 @@ Here are a few repositories from my profile:
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true)
 
 
-
 ---
 
 Thank you for stopping by! 😊  
