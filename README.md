@@ -33,11 +33,9 @@ Here are a few repositories from my profile:
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
----
+![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true)
+
 
 
 ---
