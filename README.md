@@ -1,52 +1,52 @@
 Hi 👋 My name is Amisha
 ======================
 
-Backend Developer | Software Developer
--------------------------------------
+Software Developer
+----------------------------------------
 
-Hi! I enjoy building backend systems, APIs, and scalable software solutions.  
-I like working close to databases, writing clean logic, and understanding how systems work end-to-end.
+I build backend systems with a focus on **how they work internally** — including database design, data consistency, and scalability.
 
-* 🌍  I'm based in India   
-* 🧠  I'm currently improving my skills in **backend development, databases, and system design**  
-* 🤝  I'm open to collaborating on **backend and software development projects**  
-* ⚡  I enjoy solving problems and building reliable systems
+Currently, I’m working on a **multi-tenant SaaS appointment system** where I’m solving real-world problems like:
+- tenant-based data isolation
+- preventing double bookings
+- handling database constraints and concurrency
+- designing clean backend APIs
+
+Alongside backend development, I’m also learning **Machine Learning** and exploring how it can be integrated into real systems.
+
+* 🌍 I'm based in India  
+* 🧠 Learning: **System Design, Backend Scalability, Machine Learning**  
+* 🛠️ Building: **Multi-Tenant Appointment SaaS (Flask + PostgreSQL + Docker)**  
+* 🤝 Open to collaborating on backend or ML-related projects  
 
 ---
 
-### Skills
+### 🧩 Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<a href="https://flask.palletsprojects.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
 </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<a href="https://www.postgresql.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
 </p>
 
 ---
 
-
-### Badges
+### 📊 GitHub Stats
 
 <b>My GitHub Stats</b>
 
