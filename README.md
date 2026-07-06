@@ -1,23 +1,20 @@
-Hi 👋 My name is Amisha
-======================
+# Hi 👋 I'm Amisha
 
-Software Developer
-----------------------------------------
+### Software Developer
 
-I build backend systems with a focus on **how they work internally** — including database design, data consistency, and scalability.
+I'm a software developer passionate about building reliable and scalable backend systems. I enjoy understanding how software works beneath the surface—from database design and API architecture to concurrency, performance, and distributed systems.
 
-Currently, I’m working on a **multi-tenant SaaS appointment system** where I’m solving real-world problems like:
-- tenant-based data isolation
-- preventing double bookings
-- handling database constraints and concurrency
-- designing clean backend APIs
+I'm continuously improving my knowledge of backend engineering, system design, and machine learning while building practical solutions and exploring modern technologies.
 
-Alongside backend development, I’m also learning **Machine Learning** and exploring how it can be integrated into real systems.
+* 🌍 Based in India
+* 💻 Interested in **Backend Development, Distributed Systems, and Machine Learning**
+* 🧠 Currently learning **Microservices, System Design, Cloud Technologies, and Machine Learning**
+* 🛠️ Skilled in **Python, Flask, PostgreSQL, SQL, Git, Docker, REST APIs, and Object-Oriented Programming**
+* 🚀 Exploring **Scalable System Architecture, Database Optimization, Caching, Message Queues, and Cloud Deployment**
+* 🤝 Open to collaborating on backend development, open-source, and machine learning projects
 
-* 🌍 I'm based in India  
-* 🧠 Learning: **System Design, Backend Scalability, Machine Learning**  
-* 🛠️ Building: **Multi-Tenant Appointment SaaS (Flask + PostgreSQL + Docker)**  
-* 🤝 Open to collaborating on backend or ML-related projects  
+> *I believe the best way to learn software engineering is by building, understanding how things work internally, and continuously improving through real-world problem solving.*
+
 
 ---
 
