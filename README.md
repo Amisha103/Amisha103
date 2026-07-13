@@ -12,37 +12,24 @@
 ![](https://img.shields.io/badge/Open%20to%20Work-8B5E3C?style=flat-square)
 </p>
 
----
+-## 👩‍💻 About Me
 
-## 👩‍💻 About Me
+🎓 M.Tech Computer Science student passionate about building scalable backend systems and AI-powered applications.
 
-```ts
-const amisha = {
-  role: "Software Engineer",
-  education: "M.Tech in Computer Science",
-  specialization: [
-    "Backend Development",
-    "Machine Learning",
-    "System Design"
-  ],
-  currentlyLearning: [
-    "Microservices",
-    "Distributed Systems",
-    "Kubernetes",
-    "Advanced System Design"
-  ],
-  tech: [
-    "Spring Boot","Flask","React",
-    "PostgreSQL","Docker","Kubernetes"
-  ],
-  openTo: [
-    "Software Engineer",
-    "Backend Engineer",
-    "Machine Learning Engineer"
-  ]
-}
-```
+💼 I enjoy designing REST APIs, developing Spring Boot and Flask applications, solving real-world problems with Machine Learning, and learning System Design.
 
+🌱 Currently exploring **Microservices**, **Kubernetes**, **CI/CD**, and **Distributed Systems**.
+
+🎯 Looking for opportunities as a **Software Engineer**, **Backend Developer**, or **Machine Learning Engineer**.
+
+<br>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-8B5E3C?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-API-8B5E3C?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Frontend-8B5E3C?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-8B5E3C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-8B5E3C?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-8B5E3C?style=for-the-badge)
 ## 🚀 Featured Projects
 
 ### 🏢 Multi-Tenant Appointment SaaS
