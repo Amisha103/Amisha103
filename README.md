@@ -164,16 +164,6 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 - Multi-Tenant Systems
 - RESTful Services
 
-
-
-## 🤝 Connect
-
-- LinkedIn: https://www.linkedin.com/in/amisha-bhatia-
-- GitHub: https://github.com/Amisha103
-- Email: bhatiaamisha74@gmail.com
-
-
-
 ---
 
 > "Keep learning. Keep building. Keep improving."
