@@ -11,8 +11,10 @@
 ![](https://img.shields.io/badge/Open%20to%20Work-8B5E3C?style=flat-square)
 </p>
 
--## 👩‍💻 About Me
-
+-## 👩‍💻 About Me 
+PORTFOLIO LINK - <a href="https://procfile-525j.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 I'm an **M.Tech Computer Science** student with a strong interest in backend engineering and scalable software systems.
 
@@ -29,6 +31,7 @@ Currently learning **Microservices, Kubernetes, CI/CD, and Distributed Systems**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-8B5E3C?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-8B5E3C?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-8B5E3C?style=for-the-badge)
+
 ## 🚀 Featured Projects
 
 ### 🏢 Multi-Tenant Appointment SaaS
@@ -144,9 +147,6 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 - Email: bhatiaamisha74@gmail.com
 
 
-<a href="https://procfile-525j.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
 
 ---
 
