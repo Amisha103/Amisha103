@@ -12,7 +12,8 @@
 </p>
 
 -## 👩‍💻 About Me 
-PORTFOLIO LINK - <a href="https://procfile-525j.onrender.com/" target="_blank">
+
+<a href="https://procfile-525j.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
