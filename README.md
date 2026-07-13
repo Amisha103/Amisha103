@@ -106,10 +106,10 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=nidhi14021&show_icons=true&theme=nord&border_color=dda17d&title_color=dda17d&icon_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nidhi14021&layout=compact&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=amisha103&show_icons=true&theme=nord&border_color=dda17d&title_color=dda17d&icon_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amisha103&layout=compact&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=nidhi14021&theme=nord&border=dda17d&ring=dda17d&fire=dda17d&currStreakLabel=dda17d" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=amisha103&theme=nord&border=dda17d&ring=dda17d&fire=dda17d&currStreakLabel=dda17d" alt="GitHub Streak"/>
 
 </div>
 
