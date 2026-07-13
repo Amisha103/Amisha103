@@ -103,19 +103,26 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 </p>
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true&bg_color=00000000&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C&text_color=6F4E37"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha103&layout=compact&langs_count=8&hide=jupyter%20notebook&border_color=8B5E3C&title_color=8B5E3C&text_color=6F4E37&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true&rank_icon=github&theme=transparent&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C&text_color=6F4E37"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha103&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=transparent&border_color=8B5E3C&title_color=8B5E3C&text_color=6F4E37"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Amisha103&theme=transparent&border=8B5E3C&ring=8B5E3C&fire=8B5E3C&currStreakLabel=8B5E3C"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amisha103&bg_color=00000000&color=8B5E3C&line=8B5E3C&point=8B5E3C&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amisha103&theme=flat&no-frame=true&margin-w=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amisha103&theme=flat&no-frame=true&column=4&margin-w=15"/>
+
 </p>
 
 ## 📊 Contribution Graph
@@ -146,6 +153,9 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 - LinkedIn: https://www.linkedin.com/in/amisha-bhatia-
 - GitHub: https://github.com/Amisha103
 - Email: bhatiaamisha74@gmail.com
+- <a href="https://procfile-525j.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 ---
 
