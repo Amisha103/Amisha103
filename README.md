@@ -29,9 +29,10 @@
 </a>
 
 </p>
----
-## ✨ About Me
 
+---
+
+## ✨ About Me
 
 
 I'm an **M.Tech Computer Science** student with a strong interest in backend engineering and scalable software systems.
@@ -122,7 +123,10 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
   <img src="https://img.shields.io/badge/DBSCAN-8B5E3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Feature_Engineering-8B5E3C?style=for-the-badge" />
 </p>
+
 ---
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -135,6 +139,10 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 </div>
 
 <br/>
+
+---
+
+
 ## 📊 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Amisha103&bg_color=ffffff00&color=8B5E3C&line=8B5E3C&point=8B5E3C&hide_border=true)
