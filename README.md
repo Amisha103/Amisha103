@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Amisha
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=220&section=header&text=Hi%20There,%20I'm%20Amisha%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
