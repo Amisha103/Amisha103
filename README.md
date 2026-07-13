@@ -14,14 +14,14 @@
 
 -## 👩‍💻 About Me
 
-🎓 M.Tech Computer Science student passionate about building scalable backend systems and AI-powered applications.
 
-💼 I enjoy designing REST APIs, developing Spring Boot and Flask applications, solving real-world problems with Machine Learning, and learning System Design.
+I'm an **M.Tech Computer Science** student with a strong interest in backend engineering and scalable software systems.
 
-🌱 Currently exploring **Microservices**, **Kubernetes**, **CI/CD**, and **Distributed Systems**.
+I enjoy building full-stack applications, designing secure REST APIs, optimizing databases, and solving complex engineering problems. My projects range from a **multi-tenant SaaS appointment platform** to **machine learning applications** for customer analytics.
 
-🎯 Looking for opportunities as a **Software Engineer**, **Backend Developer**, or **Machine Learning Engineer**.
+Currently learning **Microservices, Kubernetes, CI/CD, and Distributed Systems** to build production-grade cloud applications.
 
+💼 Open to **Software Engineer**, **Backend Developer**, and **Machine Learning Engineer** roles.
 <br>
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-8B5E3C?style=for-the-badge)
@@ -51,17 +51,6 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
 
 - 💻 Code: https://github.com/Amisha103/Customer_Segmentation-
 
----
-
-### 📦 Inventory Management System
-
-Desktop inventory management application with billing, stock tracking, and role-based access.
-
-**Tech:** Java • Swing • JDBC • MySQL
-
-- 💻 Code: https://github.com/Amisha103/Inventory-Management-System
-
----
 
 # 🛠 Tech Stack
 
@@ -83,33 +72,36 @@ Desktop inventory management application with billing, stock tracking, and role-
 ### Development Tools
 ![](https://skillicons.dev/icons?i=vscode,idea,postman)
 
-### Concepts
+## 🏗️ Core Concepts
 
-- REST APIs
-- System Design
-- Microservices
-- CI/CD
-- Kubernetes
-- Docker
-- Multi-Tenant Architecture
-- JWT Authentication
-- Google OAuth2
-- Hibernate
-- Spring Data JPA
-- Database Design
-- Distributed Systems
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Tenant_SaaS-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth2-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hibernate-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database_Design-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-8B5E3C?style=for-the-badge" />
+</p>
 
-### Machine Learning
+## 🤖 Machine Learning
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Streamlit
-- K-Means
-- DBSCAN
-- Feature Engineering
-
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K--Means-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBSCAN-8B5E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-8B5E3C?style=for-the-badge" />
+</p>
 ---
 
 # 📈 GitHub Stats
@@ -148,10 +140,7 @@ Desktop inventory management application with billing, stock tracking, and role-
 - Multi-Tenant Systems
 - RESTful Services
 
-## 📜 Certifications
 
-- Supervised Machine Learning — Coursera
-- Research Methodology — NPTEL
 
 ## 🤝 Connect
 
