@@ -29,7 +29,8 @@
 </a>
 
 </p>
-# 👩‍💻 About Me 
+---
+## ✨ About Me
 
 
 
@@ -49,9 +50,9 @@ Currently learning **Microservices, Kubernetes, CI/CD, and Distributed Systems**
 ![Docker](https://img.shields.io/badge/Docker-Containerization-8B5E3C?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-8B5E3C?style=for-the-badge)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏢 Multi-Tenant Appointment SaaS
+### Multi-Tenant Appointment SaaS
 
 A scalable SaaS appointment booking platform supporting multiple businesses with secure tenant isolation, JWT authentication, Google OAuth2, PostgreSQL, Docker, and REST APIs.
 
