@@ -102,29 +102,18 @@ Customer segmentation using K-Means and DBSCAN with feature engineering, evaluat
   <img src="https://img.shields.io/badge/Feature_Engineering-8B5E3C?style=for-the-badge" />
 </p>
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=nidhi14021&show_icons=true&theme=nord&border_color=dda17d&title_color=dda17d&icon_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nidhi14021&layout=compact&theme=nord&border_color=dda17d&title_color=dda17d&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true&rank_icon=github&theme=transparent&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C&text_color=6F4E37"/>
+<img src="https://streak-stats.demolab.com?user=nidhi14021&theme=nord&border=dda17d&ring=dda17d&fire=dda17d&currStreakLabel=dda17d" alt="GitHub Streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha103&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=transparent&border_color=8B5E3C&title_color=8B5E3C&text_color=6F4E37"/>
+</div>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amisha103&bg_color=00000000&color=8B5E3C&line=8B5E3C&point=8B5E3C&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amisha103&theme=flat&no-frame=true&column=4&margin-w=15"/>
-
-</p>
-
+<br/>
 ## 📊 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Amisha103&bg_color=ffffff00&color=8B5E3C&line=8B5E3C&point=8B5E3C&hide_border=true)
