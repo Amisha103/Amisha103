@@ -1,150 +1,179 @@
-<div align="center">
+# 👋 Hi, I'm Amisha
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=220&section=header&text=Hi%20There,%20I'm%20Amisha%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Software+Engineer;Machine+Learning+Enthusiast;Backend+%26+API+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5E3C&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Spring+Boot+%7C+Flask+%7C+PostgreSQL;Machine+Learning+Enthusiast;Building+Scalable+SaaS+Applications" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-8B5E3C?style=for-the-badge&logo=probot&logoColor=white" alt="Open to Work"/>
+![](https://komarev.com/ghpvc/?username=Amisha103&color=8B5E3C&style=flat-square&label=Profile+Views)
+![](https://img.shields.io/github/followers/Amisha103?style=flat-square&color=8B5E3C)
+![](https://img.shields.io/badge/Open%20to%20Work-8B5E3C?style=flat-square)
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Amisha103&color=8B5E3C&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Amisha103?label=Followers&color=8B5E3C&style=flat-square" alt="Followers"/>
+---
 
-</div>
+## 👩‍💻 About Me
 
-<br/>
-
-## 👩‍💻 Who I Am
-
-```typescript
+```ts
 const amisha = {
-  title: "Software Engineer",
-  stack: [
-    "Java", "Python", "SQL",
-    "Flask", "FastAPI", "React.js",
-    "Docker", "PostgreSQL", "MySQL", "Redis"
+  role: "Software Engineer",
+  education: "M.Tech in Computer Science",
+  specialization: [
+    "Backend Development",
+    "Machine Learning",
+    "System Design"
   ],
-  launchedProjects: 3,
-  certifications: [
-    "Supervised Machine Learning — Coursera",
-    "Research Methodology — NPTEL"
+  currentlyLearning: [
+    "Microservices",
+    "Distributed Systems",
+    "Kubernetes",
+    "Advanced System Design"
   ],
-  status: "Pursuing M.Tech in Computer Science @ Lovely Professional University",
-  openTo: ["Software Engineering Roles", "Backend Development", "Machine Learning"]
-};
+  tech: [
+    "Spring Boot","Flask","React",
+    "PostgreSQL","Docker","Kubernetes"
+  ],
+  openTo: [
+    "Software Engineer",
+    "Backend Engineer",
+    "Machine Learning Engineer"
+  ]
+}
 ```
-
-<br/>
 
 ## 🚀 Featured Projects
 
-### 🏢 Multi Tenant Appointment Booking System
+### 🏢 Multi-Tenant Appointment SaaS
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Amisha103&repo=multi-tenant-appointment-saas&theme=nord&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C" alt="Multi Tenant Appointment Booking System"/>
+A scalable SaaS appointment booking platform supporting multiple businesses with secure tenant isolation, JWT authentication, Google OAuth2, PostgreSQL, Docker, and REST APIs.
 
-A scalable multi-tenant appointment booking platform supporting 100+ tenants with secure data isolation, JWT + Google OAuth 2.0 authentication, and optimized PostgreSQL queries.
+**Tech:** Flask • PostgreSQL • Docker • JWT • OAuth2
 
-| Layer | Technology |
-|---|---|
-| Backend | Flask |
-| Auth | JWT, Google OAuth 2.0 |
-| Database | PostgreSQL |
-| Containerization | Docker |
-| Deployment | Render |
+- 🔗 Live: https://multi-tenant-appointment-saas.onrender.com
+- 💻 Code: https://github.com/Amisha103/multi-tenant-appointment-saas
 
-🔗 [Live](https://multi-tenant-appointment-saas.onrender.com) &nbsp;|&nbsp; 💻 [Code](https://github.com/Amisha103/multi-tenant-appointment-saas)
+---
 
-<br clear="right"/>
+### 📊 Customer Segmentation System
 
-### 📊 Customer Segmentation Dashboard
+Customer segmentation using K-Means and DBSCAN with feature engineering, evaluation metrics, and an interactive Streamlit dashboard.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Amisha103&repo=Customer_Segmentation-&theme=nord&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C" alt="Customer Segmentation Dashboard"/>
+**Tech:** Python • Scikit-Learn • Streamlit • Pandas
 
-An end-to-end customer segmentation and analytics system using K-Means and DBSCAN, identifying 5 customer segments with an interactive Streamlit dashboard.
+- 💻 Code: https://github.com/Amisha103/Customer_Segmentation-
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| ML Models | Scikit-learn (K-Means, DBSCAN) |
-| Dashboard | Streamlit |
+---
 
-💻 [Code](https://github.com/Amisha103/Customer_Segmentation-)
+### 📦 Inventory Management System
 
-<br clear="right"/>
+Desktop inventory management application with billing, stock tracking, and role-based access.
 
-### 🖥️ Inventory Management System
+**Tech:** Java • Swing • JDBC • MySQL
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Amisha103&repo=Inventory-Management-System&theme=nord&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C" alt="Inventory Management System"/>
+- 💻 Code: https://github.com/Amisha103/Inventory-Management-System
 
-A desktop-based inventory management system automating stock tracking, sales processing, and billing with role-based access control.
+---
 
-| Layer | Technology |
-|---|---|
-| Language | Java (AWT, Swing) |
-| Database | MySQL (JDBC) |
+# 🛠 Tech Stack
 
-💻 [Code](https://github.com/Amisha103/Inventory-Management-System)
+### Languages
+![](https://skillicons.dev/icons?i=java,python,js,html,css)
 
-<br clear="right"/>
+### Frontend
+![](https://skillicons.dev/icons?i=react,bootstrap)
 
-## 🛠️ Tech Stack
+### Backend
+![](https://skillicons.dev/icons?i=spring,flask,fastapi)
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py" />
+### Databases
+![](https://skillicons.dev/icons?i=postgres,mysql,redis)
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react" />
+### DevOps & Cloud
+![](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,maven,gradle)
 
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,docker,kubernetes" />
+### Development Tools
+![](https://skillicons.dev/icons?i=vscode,idea,postman)
 
-**AI / Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sklearn" />
+### Concepts
 
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git" />
+- REST APIs
+- System Design
+- Microservices
+- CI/CD
+- Kubernetes
+- Docker
+- Multi-Tenant Architecture
+- JWT Authentication
+- Google OAuth2
+- Hibernate
+- Spring Data JPA
+- Database Design
+- Distributed Systems
 
-<br/>
+### Machine Learning
 
-## 📈 GitHub Stats
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- K-Means
+- DBSCAN
+- Feature Engineering
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true&theme=nord&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha103&layout=compact&theme=nord&border_color=8B5E3C&title_color=8B5E3C&hide_border=false" alt="Top Languages" height="165"/>
+# 📈 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Amisha103&theme=nord&border=8B5E3C&fire=8B5E3C&currStreakLabel=8B5E3C" alt="GitHub Streak"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amisha103&show_icons=true&bg_color=00000000&border_color=8B5E3C&title_color=8B5E3C&icon_color=8B5E3C&text_color=6F4E37"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha103&layout=compact&langs_count=8&hide=jupyter%20notebook&border_color=8B5E3C&title_color=8B5E3C&text_color=6F4E37&bg_color=00000000"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amisha103&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Amisha103&theme=transparent&border=8B5E3C&ring=8B5E3C&fire=8B5E3C&currStreakLabel=8B5E3C"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amisha103&theme=flat&no-frame=true&margin-w=8"/>
+</p>
 
-### 📅 Contribution Activity
+## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amisha103&theme=react-dark&hide_border=true&color=8B5E3C&line=8B5E3C&point=ffffff" alt="Activity Graph" width="100%"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Amisha103&bg_color=ffffff00&color=8B5E3C&line=8B5E3C&point=8B5E3C&hide_border=true)
 
-<br/>
+## 🌱 Currently Learning
 
-## 🤝 Connect With Me
+- Microservices
+- Kubernetes
+- CI/CD Pipelines
+- Distributed Systems
+- Advanced System Design
 
-<div align="center">
+## 💼 What I Build
 
-<a href="https://www.linkedin.com/in/amisha-bhatia-">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:bhatiaamisha74@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Amisha103">
-  <img src="https://img.shields.io/badge/GitHub-8B5E3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+- SaaS Applications
+- Backend APIs
+- Machine Learning Solutions
+- Database Optimization
+- Multi-Tenant Systems
+- RESTful Services
 
-</div>
+## 📜 Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120&section=footer" width="100%"/>
+- Supervised Machine Learning — Coursera
+- Research Methodology — NPTEL
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/amisha-bhatia-
+- GitHub: https://github.com/Amisha103
+- Email: bhatiaamisha74@gmail.com
+
+---
+
+> "Keep learning. Keep building. Keep improving."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120&section=footer"/>
